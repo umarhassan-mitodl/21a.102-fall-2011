@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ]
+  ],
+  "legacy_uid": "3bfdfc95-82c9-8630-4410-cd3c36ce544b",
+  "instructors": {
+    "content": [
+      "0528de4d-7881-6e61-492b-c1af2ccf08b9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fd0a21f9-a49a-a52d-7129-b8b263e92780",
+    "website": "21a-226-ethnic-and-national-identity-fall-2011"
+  },
+  "course_title": "Ethnic and National Identity",
+  "course_description": "An introduction to the cross-cultural study of ethnic and national identity. We examine the concept of social identity, and consider the ways in which gendered, linguistic, religious, and ethno-racial identity components interact. We explore the history of nationalism, including the emergence of the idea of the nation-state, as well as ethnic conflict, globalization, identity politics, and human rights.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.102 (formerly 21A.226)",
+  "course_image_thumbnail": {
+    "content": "8afc2661-26c2-a0e7-c790-eb8200bf3daf",
+    "website": "21a-226-ethnic-and-national-identity-fall-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "16ab198a-1617-43fe-ab5c-529633846e91",
+  "site_short_id": "21a.102-fall-2011",
+  "site_url_path": "courses/21a-226-ethnic-and-national-identity-fall-2011",
+  "title": "Course Metadata"
+}

@@ -1,0 +1,36 @@
+leftnav:
+- identifier: 34f9149e-bea9-ff25-4eb8-59ff67205fcf
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 01180bff-6246-a3f8-3d45-a127a9e9dcb6
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 210ddfd5-8cb9-2bed-905b-83c07ad2020c
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: f0decf83-1f25-3c32-0cb5-e2e4936fa591
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 6c97a5fa-69be-73ea-21af-fc9dbc9ef694
+  name: First Written Assignment
+  pageRef: /pages/assignments/first_assn
+  parent: f0decf83-1f25-3c32-0cb5-e2e4936fa591
+  weight: 50
+- identifier: 3018bb5e-3307-2c9d-0adf-7a3a3369ebf2
+  name: Second Written Assignment
+  pageRef: /pages/assignments/second_assn
+  parent: f0decf83-1f25-3c32-0cb5-e2e4936fa591
+  weight: 60
+- identifier: 9bafa127-2581-1367-9723-8d5d52350997
+  name: Third Written Assignment
+  pageRef: /pages/assignments/third_assn
+  parent: f0decf83-1f25-3c32-0cb5-e2e4936fa591
+  weight: 70
+- identifier: af77bb72-5f74-b7e3-3060-48c378ea8088
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 80
