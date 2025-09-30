@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section provides a list of supplementary readings to expand on
   what is taught in class and serve as inspiration and materials for the assignments. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

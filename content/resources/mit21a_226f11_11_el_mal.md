@@ -4,6 +4,8 @@ description: This resource contains information related to lecture notes.
 file: /courses/21a-226-ethnic-and-national-identity-fall-2011/601d6584bb120a9e8b1bc3e762fba1a2_MIT21A_226F11_11_El_Mal.pdf
 file_size: 68852
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
