@@ -4,8 +4,6 @@ description: This resource contains information related to lecture notes.
 file: /courses/21a-226-ethnic-and-national-identity-fall-2011/2bc2d5b8bafb6ffdc6151d48d86d977e_MIT21A_226F11_7_Erik_May.pdf
 file_size: 125479
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

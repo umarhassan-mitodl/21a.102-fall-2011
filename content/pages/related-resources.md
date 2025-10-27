@@ -2,367 +2,365 @@
 content_type: page
 description: 'This section provides a list of supplementary readings to expand on
   what is taught in class and serve as inspiration and materials for the assignments. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: af77bb72-5f74-b7e3-3060-48c378ea8088
 ---
 
-[www.reuters.com/article/us-germany-merkel-immigration/merkel-says-german-multiculturalism-has-failed-idUSTRE69F1K320101016](https://www.reuters.com/article/us-germany-merkel-immigration/merkel-says-german-multiculturalism-has-failed-idUSTRE69F1K320101016)This is a list of supplementary readings to expand on what is taught in class and serve as inspiration and materials for the assignments.
+{{% resource_link "955c18e9-3f17-4205-a9a0-801b122a5e75" "www.reuters.com/article/us-germany-merkel-immigration/merkel-says-german-multiculturalism-has-failed-idUSTRE69F1K320101016" %}}This is a list of supplementary readings to expand on what is taught in class and serve as inspiration and materials for the assignments.
 
 Supplementary Reading: Tibet
 ----------------------------
 
-*   French, Howard W. "[Letters to Asia. Shangri-La No More: The Dragons Have Settled In](http://query.nytimes.com/gst/fullpage.html?res=9800E3DB1231F93BA35751C1A9629C8B63)," _New York Times_, December 8, 2004.
-*   Eckholm, Erik. "[From a Chinese Cell, A Lama's Influence Remains Undimmed](http://www.nytimes.com/2003/02/23/world/from-a-chinese-cell-a-lama-s-influence-remains-undimmed.html?pagewanted=all&src=pm)," _New York Times_, February 23, 2003.
-*   Jacobs, Andrew. "[China Names Its Own Lama to Top Body of Advisers](http://www.nytimes.com/2010/03/02/world/asia/02tibet.html)," _New York Times_, March 1, 2010.
-*   Wong, Edward. "[Dalai Lama says China has Turned Tibet into a "Hell on Earth"](http://www.nytimes.com/2009/03/11/world/asia/11tibet.html)," _New York Times_, March 10, 2009.
+*   French, Howard W. "{{% resource_link "eca14635-10e5-4023-aa61-9c056d6dacdd" "Letters to Asia. Shangri-La No More: The Dragons Have Settled In" %}}," _New York Times_, December 8, 2004.
+*   Eckholm, Erik. "{{% resource_link "50abf451-b5d3-43c5-bb70-01bc9dcb40bc" "From a Chinese Cell, A Lama's Influence Remains Undimmed" %}}," _New York Times_, February 23, 2003.
+*   Jacobs, Andrew. "{{% resource_link "ba8627c2-a02b-4088-8888-2a375a2ed848" "China Names Its Own Lama to Top Body of Advisers" %}}," _New York Times_, March 1, 2010.
+*   Wong, Edward. "{{% resource_link "caea7f8a-b9f9-43a9-a160-0a8b88f32039" "Dalai Lama says China has Turned Tibet into a \"Hell on Earth\"" %}}," _New York Times_, March 10, 2009.
 *   From a refugee shelter in India, Tibetan monks can recount their escape
-*   Wong, Edward. "[Tibetans in China Protest Proposed Curbs on their Language](http://www.nytimes.com/2010/10/23/world/asia/23china.html)," _New York Times_, October 22, 2010.
-*   Crossette, Barbara. "[Dalai Lama sees a Culture Endangered](http://www.nytimes.com/1989/03/22/world/dalai-lama-sees-a-culture-endangered.html)," _New York Times_, March 22, 1989.
+*   Wong, Edward. "{{% resource_link "29596038-c58b-4e37-b938-a764a858c005" "Tibetans in China Protest Proposed Curbs on their Language" %}}," _New York Times_, October 22, 2010.
+*   Crossette, Barbara. "{{% resource_link "2d5dbb0a-9466-434a-9a80-0871c312a7c8" "Dalai Lama sees a Culture Endangered" %}}," _New York Times_, March 22, 1989.
 
 Supplementary Reading: China
 ----------------------------
 
-*   Smith, Craig S. "[Risking Limbs for Height, and Success, in China](http://www.nytimes.com/2002/05/05/world/risking-limbs-for-height-and-success-in-china.html?pagewanted=all&src=pm)," _New York Times_, May 5, 2002.
-*   Yardley, Jim. "[China Frees Muslim Woman Days Ahead of Rice's Visit](http://www.nytimes.com/2005/03/18/international/asia/18china.html)," _New York Times_, March 18, 2005.
-*   Wong, Edward. "[Celebrating Id al-Fitr Under Watchful Chinese Eyes](http://www.nytimes.com/2010/09/13/world/asia/13kashgar.html)," _New York Times_, September 12, 2010.
-*   Jacobs, Andrew. "[Resentment Simmers in Western Chinese Region](http://www.nytimes.com/2010/09/05/world/asia/05uighur.html?pagewanted=all)," _New York Times_, September 4, 2010.
+*   Smith, Craig S. "{{% resource_link "a39ce143-2da2-4390-921c-56cb3caa90ef" "Risking Limbs for Height, and Success, in China" %}}," _New York Times_, May 5, 2002.
+*   Yardley, Jim. "{{% resource_link "52c2bc1c-c33d-42a6-873a-80071a7583ee" "China Frees Muslim Woman Days Ahead of Rice's Visit" %}}," _New York Times_, March 18, 2005.
+*   Wong, Edward. "{{% resource_link "52af5d8c-c2f4-46e2-872d-27164c91e27a" "Celebrating Id al-Fitr Under Watchful Chinese Eyes" %}}," _New York Times_, September 12, 2010.
+*   Jacobs, Andrew. "{{% resource_link "a1f20c24-ce84-4187-9773-8778bda5a2fc" "Resentment Simmers in Western Chinese Region" %}}," _New York Times_, September 4, 2010.
 *   Wong, Edward. "[Theme Parks Give Chinese a Peek at Life for Minorities](http://www.nytimes.com/2010/02/24/world/asia/24park.html?partner=rss&emc=rss     )." _New York Times_, February 23, 2010.
-*   Kahn, Joseph. "[Ethnic Clashes are Confirmed by Beijinig; Toll is Unclear](http://www.nytimes.com/2004/11/02/international/asia/02china.html)," _New York Times_, November 2, 2004.
-*   Wong, Edward. "[The Dead Tell a Tale China Doesn't Care to Listen To](http://www.nytimes.com/2008/11/19/world/asia/19mummy.html?pagewanted=all)," _New York Times_, November 18, 2008.
-*   ———. "[China Seals off Cities Battered by Ethnic Fight](http://www.boston.com/news/world/asia/articles/2009/07/07/china_seals_cities_battered_by_ethnic_fighting/)," _New York Times_, July 7, 2009.
-*   Eckholm, Erik. "[China Points to Another Leader in Exile](http://www.nytimes.com/2009/07/07/world/asia/07kadeer.html)," _New York Times_, July 6, 2009.
-*   Wong, Edward. "[China Offers a Defense of its Policies on Minorities](http://www.nytimes.com/2009/07/23/world/asia/23xinjiang.html)," _New York Times_, July 22, 2009.
+*   Kahn, Joseph. "{{% resource_link "54abd55c-6650-410a-832a-bca64c222c8e" "Ethnic Clashes are Confirmed by Beijinig; Toll is Unclear" %}}," _New York Times_, November 2, 2004.
+*   Wong, Edward. "{{% resource_link "750b25d3-7ab8-47e3-80b3-3e2674b9175e" "The Dead Tell a Tale China Doesn't Care to Listen To" %}}," _New York Times_, November 18, 2008.
+*   ———. "{{% resource_link "0a506563-08b0-4d7c-87eb-0bd5105be8f5" "China Seals off Cities Battered by Ethnic Fight" %}}," _New York Times_, July 7, 2009.
+*   Eckholm, Erik. "{{% resource_link "78798c24-3aba-4924-9dff-a545866c5c4f" "China Points to Another Leader in Exile" %}}," _New York Times_, July 6, 2009.
+*   Wong, Edward. "{{% resource_link "24d50456-29fc-4a49-8c8f-7478518bc7f1" "China Offers a Defense of its Policies on Minorities" %}}," _New York Times_, July 22, 2009.
 *   New protests flare in Chinese city after deadly ethnic clashes
 *   Jacobs, Andrew. Decades of settlers' sweat build chinese region at Uighurs' expense
 *   Exile detainees at Guantanamo pose a dilemma
-*   Eckholm, Erik. "[After Her Rise in China and Expulsion, Uighur Becomes the Face of Her People](https://www.theledger.com/news/20090709/after-her-rise-in-china-and-expulsion-a-uighur-becomes-the-face-of-her-people/1)," _New York Times_, July 8, 2009.
-*   Wong, Edward. "[3 Uighurs Convicted of Syringe Attacks, Heightening Tensions in Western China](http://www.nytimes.com/2009/09/13/world/asia/13xinjiang.html)," _New York Times_, September 12, 2009.
-*   ———. "[China Court Sentences 6 to Death in Ethnic Rioting](http://www.nytimes.com/2009/10/13/world/asia/13china.html?gwh=3B0223A17225BB69F6F87E9C699BCA37)," _New York Times_, October 12, 2009.
-*   Eckholm, Erik. "[Freed from Guantanamo, Uighur Muslims Bask in Bermuda](http://www.freerepublic.com/focus/f-news/2271809/posts)," _New York Times_, June 14, 2009.
-*   Wong, Edward. "[China Seals off Cities Battered by Ethnic Fight](http://www.boston.com/news/world/asia/articles/2009/07/07/china_seals_cities_battered_by_ethnic_fighting/)," _New York Times_, July 7, 2009.
-*   Jacobs, Andrew. "[Economic Aid Fuels Change of Fortunes on Silk Road](http://www.nytimes.com/2010/11/15/world/asia/15kashgar.html?pagewanted=all&gwh=406C51D334DB89251E1C5BE11998C400)," _New York Times_, November 14, 2010.
+*   Eckholm, Erik. "{{% resource_link "084e1483-77db-4435-8588-cae86b55fdc2" "After Her Rise in China and Expulsion, Uighur Becomes the Face of Her People" %}}," _New York Times_, July 8, 2009.
+*   Wong, Edward. "{{% resource_link "8d7f5695-fe7f-4650-a58e-bcf519762f65" "3 Uighurs Convicted of Syringe Attacks, Heightening Tensions in Western China" %}}," _New York Times_, September 12, 2009.
+*   ———. "{{% resource_link "2a2157be-88dc-497a-82e8-fd3a2569a382" "China Court Sentences 6 to Death in Ethnic Rioting" %}}," _New York Times_, October 12, 2009.
+*   Eckholm, Erik. "{{% resource_link "ec89ee52-385d-4951-a469-1642565fd20b" "Freed from Guantanamo, Uighur Muslims Bask in Bermuda" %}}," _New York Times_, June 14, 2009.
+*   Wong, Edward. "{{% resource_link "0a506563-08b0-4d7c-87eb-0bd5105be8f5" "China Seals off Cities Battered by Ethnic Fight" %}}," _New York Times_, July 7, 2009.
+*   Jacobs, Andrew. "{{% resource_link "3fb919aa-44fd-47a8-a28f-7787233f290a" "Economic Aid Fuels Change of Fortunes on Silk Road" %}}," _New York Times_, November 14, 2010.
 
 Supplementary Reading: Japan
 ----------------------------
 
-*   Onishi, Norimitsu. "[Born to Be a Foreigner in Her Motherland](http://www.nytimes.com/2005/04/02/international/asia/02gyun.html)," _The New York Times_, April 2, 2005.
-*   Fackler, Martin. "[A New Wave of Dissent in Japan is Openly and Loudly Anti Foreign](http://www.nytimes.com/2010/08/29/world/asia/29japan.html?pagewanted=all&gwh=5CC3D06B6611F84779318307253D6B8F)," _New York Times_, August 28, 2010.
-*   Onishi, Norimitsu. "[Japan's Outcasts Still Wait for Society's Embrace](http://www.nytimes.com/2009/01/16/world/asia/16iht-16outcasts.19414604.html?pagewanted=all&gwh=767ACA71174A559CAF9D4E739FE8CDA5)," _New York Times_, January 6, 2009.
-*   ———. [Recognition for a People who Faded as Japan Grew (Ainu)](http://www.nytimes.com/2008/07/03/world/asia/03ainu.html?pagewanted=all&gwh=A962618537F6F49AA072241EEDF21201)," _New York Times_, July 3, 2008.
-*   ———. [Ugly Images of Asian Rivals Became Best Sellers in Japan](http://www.nytimes.com/2005/11/19/international/asia/19comics.html?pagewanted=all&gwh=D530CA03F19C2B63E4B0573C8B8D3753)," _New York Times_, November 19, 2005.
+*   Onishi, Norimitsu. "{{% resource_link "5ada65fd-081b-4309-b676-e811854d76ef" "Born to Be a Foreigner in Her Motherland" %}}," _The New York Times_, April 2, 2005.
+*   Fackler, Martin. "{{% resource_link "3e4b04d5-bf20-4893-86fd-523bee26c23a" "A New Wave of Dissent in Japan is Openly and Loudly Anti Foreign" %}}," _New York Times_, August 28, 2010.
+*   Onishi, Norimitsu. "{{% resource_link "4d8e7527-c6f6-4e43-a3ca-fbb9a3ff5370" "Japan's Outcasts Still Wait for Society's Embrace" %}}," _New York Times_, January 6, 2009.
+*   ———. {{% resource_link "67a90abd-812f-4715-80bb-fd93de25b874" "Recognition for a People who Faded as Japan Grew (Ainu)" %}}," _New York Times_, July 3, 2008.
+*   ———. {{% resource_link "fd3dbd1b-f4e5-4dd3-9246-f5a738367ab2" "Ugly Images of Asian Rivals Became Best Sellers in Japan" %}}," _New York Times_, November 19, 2005.
 
 Supplimentary Reading: Korea, South, North
 ------------------------------------------
 
-*   Onishi, Norimitsu. [Korea's Tricky Task: Diggiing up Past Treachery](http://query.nytimes.com/gst/fullpage.html?res=9904E7DC1339F936A35752C0A9639C8B63&pagewanted=all)," _New York Times_, January 5, 2005.
+*   Onishi, Norimitsu. {{% resource_link "a90fb3bd-6b20-427c-8bb3-2ff9848eea04" "Korea's Tricky Task: Diggiing up Past Treachery" %}}," _New York Times_, January 5, 2005.
 
 Supplementary Reading: Australia, New Zealand
 ---------------------------------------------
 
-*   Johnston, Tim. [Australia to Apologize to Aborigines for Past Mistreatment](http://www.nytimes.com/2008/01/31/world/asia/31australia.html?gwh=6BB333EC2D685AFECE528A787114A51F)," _New York Times_, January 31, 2008.
-*   ———. "[Australia Says 'Sorry' to Aborigines for Mistrreatment](http://www.nytimes.com/2008/02/13/world/asia/13aborigine.html?gwh=2862E8DC7F33EE4D337880897AF20995)," _New York Times_, February 13, 2008.
+*   Johnston, Tim. {{% resource_link "f73963cf-6604-4567-8b9c-922b7233cb4a" "Australia to Apologize to Aborigines for Past Mistreatment" %}}," _New York Times_, January 31, 2008.
+*   ———. "{{% resource_link "95eb92a7-4bd4-4a3c-a032-206f100c0df2" "Australia Says 'Sorry' to Aborigines for Mistrreatment" %}}," _New York Times_, February 13, 2008.
 
 Supplementary Reading: Indonesia
 --------------------------------
 
-*   Simons, Marlise. "[Indonesia: Fearing Arrest, President Delays a Trip to the Netherlands](http://www.nytimes.com/2010/10/06/world/asia/06briefs-INDONESIA.html?gwh=C455EA6687A583CFEB15ADACF43ECF2A)," _New York Times_, October 5, 2010.
-*   Belford, Aubrey. "[In Bali, a 40-year Village Dispute Leaves a Family with a Social Death Sentence](http://query.nytimes.com/gst/fullpage.html?res=9A05EFD71F3FF936A25753C1A9669D8B63&pagewanted=all)," _New York Times_, October 15, 2010.
-*   Onishi, Norimitsu. "[In a Sliver of Indonesia, a Public Embrace of Judaism](http://www.nytimes.com/2010/11/23/world/asia/23indo.html?pagewanted=all&gwh=6419EC303EAF38D89D57E6DA5844C1BE)," _New York Times_, November 22, 2010.
+*   Simons, Marlise. "{{% resource_link "731844ee-a2b5-49ae-bce5-d82b138d30b2" "Indonesia: Fearing Arrest, President Delays a Trip to the Netherlands" %}}," _New York Times_, October 5, 2010.
+*   Belford, Aubrey. "{{% resource_link "0921a06c-ec94-4894-8b67-4e6229bbb978" "In Bali, a 40-year Village Dispute Leaves a Family with a Social Death Sentence" %}}," _New York Times_, October 15, 2010.
+*   Onishi, Norimitsu. "{{% resource_link "8396930c-78a4-499c-ac61-27cf8fefc8fd" "In a Sliver of Indonesia, a Public Embrace of Judaism" %}}," _New York Times_, November 22, 2010.
 
 Supplementary Reading: Malaysia
 -------------------------------
 
-*   Fuller, Thomas. "[Indian Discontent Fuels Malaysia's Rising Tensions](http://www.nytimes.com/2008/02/10/world/asia/10malaysia.html?pagewanted=all)," _New York Times_, February 10, 2008.
+*   Fuller, Thomas. "{{% resource_link "46d11735-253e-4ad6-80ca-e1f6c6edf8e9" "Indian Discontent Fuels Malaysia's Rising Tensions" %}}," _New York Times_, February 10, 2008.
 
 Supplementary Reading: India
 ----------------------------
 
-*   Gentleman, Amelia. "[Tackling a Society's Boundaries, on TV and in a Family](http://www.nytimes.com/2008/02/20/world/asia/20chennai.html?pagewanted=all)," _New York Times_, February 20, 2008.
+*   Gentleman, Amelia. "{{% resource_link "94a74974-389d-4588-bbf6-c1077431192e" "Tackling a Society's Boundaries, on TV and in a Family" %}}," _New York Times_, February 20, 2008.
 
 Supplementary Reading: Pakistan
 -------------------------------
 
-*   Liptak, Adam. "[Is the Group Responsible for the Individual's Crime?](http://findarticles.com/p/articles/mi_m0BUE/is_14_136/ai_n17207009/)" _New York Times_, May 10, 2004.
+*   Liptak, Adam. "{{% resource_link "87f86a16-533b-41c0-8e3e-afa6c45d6342" "Is the Group Responsible for the Individual's Crime?" %}}" _New York Times_, May 10, 2004.
 
 Supplementary Reading: Afghanistan:
 -----------------------------------
 
-*   Oppel, Richard A. "[Hazara Minority Hustles to Head of the Class in Afghanistan](http://www.nytimes.com/2010/01/04/world/asia/04hazaras.html?pagewanted=all)," _New York Times_, January 3, 2010.
-*   Nordberg, Jenny. "[Where Boys are Prized, Girls Live the Part](http://www.ndtv.com/article/world/in-afghanistan-boys-are-prized-and-girls-live-the-part-53594)," _New York Times_, September 21, 2010.
+*   Oppel, Richard A. "{{% resource_link "f0313ea1-1b72-4cd4-9456-c02bc405c3bb" "Hazara Minority Hustles to Head of the Class in Afghanistan" %}}," _New York Times_, January 3, 2010.
+*   Nordberg, Jenny. "{{% resource_link "5b8b5e2b-b97e-43a0-ad23-ec4142047bc3" "Where Boys are Prized, Girls Live the Part" %}}," _New York Times_, September 21, 2010.
 
 Supplementary Reading: Israel
 -----------------------------
 
-*   Levy, Gideon. "[Wombs in the Service of the State](https://www.haaretz.com/1.5131135)," _Ha'aretz_, September 9, 2002.
-*   Kershner, Isabel. "[Straddling Cultures, Irreverently, in Life and Art](http://www.nytimes.com/2008/01/07/world/middleeast/07kashua.html?pagewanted=all)," _New York Times_, January 7, 2008.
-*   Erlanger, Steven. "[Israeli Critic of Settlements Says Financing was Illegal](http://query.nytimes.com/gst/fullpage.html?res=9F01E3D9163CF933A25750C0A9639C8B63&pagewanted=all)," _New York Times_, March 10, 2005.
-*   The Associated Press. "[March in Israel Ends in Clashes in Arab Town](http://www.nytimes.com/2010/10/28/world/middleeast/28mideast.html)," _New York Times_, October 27, 2010.
+*   Levy, Gideon. "{{% resource_link "8556c00d-1aba-40a4-b74f-43b162d84179" "Wombs in the Service of the State" %}}," _Ha'aretz_, September 9, 2002.
+*   Kershner, Isabel. "{{% resource_link "fbe5f421-c7e7-4a2b-8d10-ca6a5039971f" "Straddling Cultures, Irreverently, in Life and Art" %}}," _New York Times_, January 7, 2008.
+*   Erlanger, Steven. "{{% resource_link "8ecb06f2-2e8a-4efb-999c-74624b5046b1" "Israeli Critic of Settlements Says Financing was Illegal" %}}," _New York Times_, March 10, 2005.
+*   The Associated Press. "{{% resource_link "58889afd-6db3-445c-bb2b-b6d34afba3f0" "March in Israel Ends in Clashes in Arab Town" %}}," _New York Times_, October 27, 2010.
 
 Supplementary Reading: Palestinians
 -----------------------------------
 
-*   Slackman, Michael. "[Stripped of Citizenship, Jordanians of Palestinian Origin are Set Adrift](http://query.nytimes.com/gst/fullpage.html?res=9F02E7DC113DF937A25750C0A9669D8B63&pagewanted=all)," _New York Times_, March 14, 2010.
+*   Slackman, Michael. "{{% resource_link "abab3ecd-694c-4ed3-a0ba-94eb9123bf64" "Stripped of Citizenship, Jordanians of Palestinian Origin are Set Adrift" %}}," _New York Times_, March 14, 2010.
 
 Supplementary Reading: Egypt
 ----------------------------
 
-*   The Associated Press. "[Egypt: Possible Ban on Veiled Students](http://www.nytimes.com/2009/10/06/world/middleeast/06briefs-Egypt2.html)," _New York Times_, October 5, 2009.
-*   Audi, Nadim. "[Egyptian Court Allows Return to Christianity](http://www.nytimes.com/2008/02/11/world/africa/11egypt.html)," _New York Times_, February 11, 2008.
+*   The Associated Press. "{{% resource_link "9cbb01ff-6852-4494-b324-4ffc8360efbe" "Egypt: Possible Ban on Veiled Students" %}}," _New York Times_, October 5, 2009.
+*   Audi, Nadim. "{{% resource_link "5336d6ee-7cf3-40aa-9779-448815c9ded0" "Egyptian Court Allows Return to Christianity" %}}," _New York Times_, February 11, 2008.
 
 Supplementary Reading: Yemen
 ----------------------------
 
-*   Worth, Robert F. "[Despite Caste-less Society in Yemen, Generations Languish at Bottom of Ladder](http://www.nytimes.com/2008/02/27/world/africa/27iht-27yemen.10456434.html?pagewanted=all)," _New York Times_, February 27, 2008.
+*   Worth, Robert F. "{{% resource_link "f82e8223-b690-4ec6-a88b-b30bbab47430" "Despite Caste-less Society in Yemen, Generations Languish at Bottom of Ladder" %}}," _New York Times_, February 27, 2008.
 
 Supplementary Reading: Armenians
 --------------------------------
 
-*   Knowlton, Brian. "[House Panel Assails Genocide of Armenians, Defying Obama and Angering Turkey](http://www.nytimes.com/2010/03/05/world/europe/05armenia.html?fta=y#)," _New York Times_, March 4, 2010.
-*   Levy, Clifford J. "[At Turkish Border, Armenians are Wary of a Thaw](http://www.nytimes.com/2009/05/22/world/europe/22armenia.html)," _New York Times_, May 21, 2009.
-*   Tavernise, Sabrina. "[Nearly a Million Genocide Victims, Covered in a Cloak of Amnesia](http://www.nytimes.com/2009/03/09/world/europe/09turkey.html?pagewanted=all)," _New York Times_, March 8, 2009.
-*   Bilefsky, Dan. "[Secrets Revealed in Turkey Revive Armenian Identity](http://query.nytimes.com/gst/fullpage.html?res=9407E7D6123EF933A25752C0A9669D8B63&pagewanted=all)," _New York Times_, January 10, 2010.
-*   Landler, Mark. "[After Hitch, Turkey and Armenia Sign Pact to Normalize Relations](http://www.nytimes.com/2009/10/11/world/europe/11armenia.html)," _New York Times_, October 10, 2009.
-*   Kilgannon, Corey. "[Armenian Immigrants Recall a 90-year-old Tragedy](http://query.nytimes.com/gst/fullpage.html?res=980CE5D91431F930A15757C0A9639C8B63)," _New York Times_, April 23, 2005.
+*   Knowlton, Brian. "{{% resource_link "a80439d1-299d-4789-b9a6-5f09ab4a27b5" "House Panel Assails Genocide of Armenians, Defying Obama and Angering Turkey" %}}," _New York Times_, March 4, 2010.
+*   Levy, Clifford J. "{{% resource_link "8d2e9caf-1cb7-4b3c-a6f7-b75dbc77bae0" "At Turkish Border, Armenians are Wary of a Thaw" %}}," _New York Times_, May 21, 2009.
+*   Tavernise, Sabrina. "{{% resource_link "572a5fd3-1407-4cf0-8d69-9fd36e4bc6a1" "Nearly a Million Genocide Victims, Covered in a Cloak of Amnesia" %}}," _New York Times_, March 8, 2009.
+*   Bilefsky, Dan. "{{% resource_link "2f1ad2e4-2041-4fdf-94ae-b250b1cd1e74" "Secrets Revealed in Turkey Revive Armenian Identity" %}}," _New York Times_, January 10, 2010.
+*   Landler, Mark. "{{% resource_link "9de4b1e1-4cd8-4750-8230-a70d63d94ad9" "After Hitch, Turkey and Armenia Sign Pact to Normalize Relations" %}}," _New York Times_, October 10, 2009.
+*   Kilgannon, Corey. "{{% resource_link "ec29b245-0659-4a42-b358-94d9bc34aa52" "Armenian Immigrants Recall a 90-year-old Tragedy" %}}," _New York Times_, April 23, 2005.
 
 Supplementary Reading: Turkey
 -----------------------------
 
 *   Move to lift a ban on head scarves gains in Turkey
-*   The Associated Press. "[Head Scarf Law Approved](http://www.nytimes.com/2008/02/23/world/europe/23briefs-HEADSCARFLAW_BRF.html?ref=world)," _New York Times_, February 23, 2008.
-*   Gannon, Frank. "[Does Europe Exist?](http://dx.crossref.org/10.1093%2Fembo-reports%2Fkvd056)" _European Molecular Biology Organization_ 1, no. 3 (2000): 197.
-*   Tavernise, Sabrina. "[In Turkey, Is Tension About Religion? Class? or Both?](http://www.nytimes.com/2008/02/19/news/19iht-19turkey.10165600.html?pagewanted=all)" _New York Times_, February 19, 2008.
-*   Feldman, Noah. "[Veiled Democracy?](http://www.nytimes.com/2008/02/08/opinion/08feldman.html)" _New York Times_, February 8, 2008.
+*   The Associated Press. "{{% resource_link "d27b615c-c94c-43c6-a949-7b2449b2faf0" "Head Scarf Law Approved" %}}," _New York Times_, February 23, 2008.
+*   Gannon, Frank. "{{% resource_link "56594f42-89e0-4f94-848d-f5be22f91cb1" "Does Europe Exist?" %}}" _European Molecular Biology Organization_ 1, no. 3 (2000): 197.
+*   Tavernise, Sabrina. "{{% resource_link "0a1496ea-34cb-4279-a34c-049df2c47bb2" "In Turkey, Is Tension About Religion? Class? or Both?" %}}" _New York Times_, February 19, 2008.
+*   Feldman, Noah. "{{% resource_link "64d25542-bafb-4828-9b59-06fd58a9ef9a" "Veiled Democracy?" %}}" _New York Times_, February 8, 2008.
 *   Weary of Modern Frictions, Turks Glory in Ottoman Past
-*   Bilefsky, Dan. "[Soul-searching in Turkey After Killing of a Gay Man](http://www.nytimes.com/2009/11/26/world/europe/26turkey.html?pagewanted=all)," _New York Times_, November 25, 2009.
-*   Tavernise, Sabrina. "Putting a Dent in a Law Against Insulting Turkishness," [_New York Times_, January 25, 2008.](https://www.nytimes.com/2008/01/25/world/europe/25turkey.html) 
-*   ———. "[Turkey's Presidential Pick Signals Rise of Middle Class](http://www.nytimes.com/2007/04/25/world/europe/25turkey.html?pagewanted=all)," _New York Times_, April 25, 2007.
-*   Toumani, Meline. "[Minority Rules](http://www.nytimes.com/2008/02/17/magazine/17turkey-t.html?_r=1&pagewanted=1&ref=magazine&oref=slogin)," _New York Times Magazine_, February, 17, 2008.
-*   Tavernise, Sabrina. "[For Many Turks, Head Scarf's Return Aids Religion and Democracy](http://www.nytimes.com/2008/01/30/world/europe/30turkey.html)," _New York Times_, January 30, 2008.
-*   ———. "[Under a Scarf, a Turkish Lawyer Fighting to Wear It](http://www.nytimes.com/2008/02/09/world/europe/09benli.html?_r=1&scp=1&sq=%93Under+a+Scarf,&st=nyt&gwh=16C93FA421525231A01D9EDAFDD4E079)," _New York Times_, February 9, 2008.
+*   Bilefsky, Dan. "{{% resource_link "08c840ef-c808-420e-acf5-2f9c99ed54b5" "Soul-searching in Turkey After Killing of a Gay Man" %}}," _New York Times_, November 25, 2009.
+*   Tavernise, Sabrina. "Putting a Dent in a Law Against Insulting Turkishness," {{% resource_link "8ff555a6-23f9-4d09-af27-1404cdc2b278" "_New York Times_, January 25, 2008." %}} 
+*   ———. "{{% resource_link "039b4db3-bb03-467d-81db-7712c99bbf59" "Turkey's Presidential Pick Signals Rise of Middle Class" %}}," _New York Times_, April 25, 2007.
+*   Toumani, Meline. "{{% resource_link "27b84aba-f2d3-4dc9-9c30-205b8ff8c32f" "Minority Rules" %}}," _New York Times Magazine_, February, 17, 2008.
+*   Tavernise, Sabrina. "{{% resource_link "3bae9c49-cdef-4377-a846-eca54e22e0a5" "For Many Turks, Head Scarf's Return Aids Religion and Democracy" %}}," _New York Times_, January 30, 2008.
+*   ———. "{{% resource_link "c2678f07-3272-466f-be36-61058dd98690" "Under a Scarf, a Turkish Lawyer Fighting to Wear It" %}}," _New York Times_, February 9, 2008.
 *   "The Kurdish Question in Turkey," _New York Times_, June 4, 2008.
-*   Arsu, Sebnem. "[Turkish Scholar Who Mocked Head Scarves is Aquitted](http://www.nytimes.com/2006/11/02/world/europe/02turkey.html)," _New York Times_, November 2, 2006.
+*   Arsu, Sebnem. "{{% resource_link "6b78830f-eee4-45d3-9534-33e3ab8f3617" "Turkish Scholar Who Mocked Head Scarves is Aquitted" %}}," _New York Times_, November 2, 2006.
 *   Rights court upholds ban oon head scarf set by Turkey.
 
 Supplementary Reading: Kurds
 ----------------------------
 
-*   Zoepf, Katherine. "[After Decades As Nonpersons, Syrian Kurds May Soon Be Recognized](http://www.nytimes.com/2005/04/28/international/middleeast/28syria.html)," _New York Times_, April 28, 2005.
-*   Arsu, Sebnem "[Turkey Plans to Ease Restrictions on Kurds and Help End Decades of Conflict](http://www.nytimes.com/2009/11/14/world/europe/14kurds.html)," _New York Times_, November 13, 2009.
-*   Gordan, Michael R., and Andrew W. Lehren. "[A Fear that Kurdish-Arab Tensions will Worsen After U.S. Leaves](http://www.nytimes.com/2010/10/24/world/middleeast/24kurds.html)," _New York Times_, October 23, 2010.
-*   Myers, Steven Lee. "[Delays in a Head Count Keep Crucial Numbers a Matter of Guesswork](http://www.nytimes.com/2010/12/07/world/middleeast/07iraq.html)," _New York Times_, December 6, 2010.
+*   Zoepf, Katherine. "{{% resource_link "5a01c5e6-0fe4-43fe-893d-ae3f5572ffd9" "After Decades As Nonpersons, Syrian Kurds May Soon Be Recognized" %}}," _New York Times_, April 28, 2005.
+*   Arsu, Sebnem "{{% resource_link "3ee5acc9-d4ab-43cd-ac3b-d76a08d5570d" "Turkey Plans to Ease Restrictions on Kurds and Help End Decades of Conflict" %}}," _New York Times_, November 13, 2009.
+*   Gordan, Michael R., and Andrew W. Lehren. "{{% resource_link "34de201e-fed5-4b6e-91fc-4c89f7f7bae4" "A Fear that Kurdish-Arab Tensions will Worsen After U.S. Leaves" %}}," _New York Times_, October 23, 2010.
+*   Myers, Steven Lee. "{{% resource_link "00f5f822-d9d0-4007-9e12-2a9dd006e6cb" "Delays in a Head Count Keep Crucial Numbers a Matter of Guesswork" %}}," _New York Times_, December 6, 2010.
 
 Supplementary Reading: Former Yugoslavia
 ----------------------------------------
 
 *   U.S. and much of Europe recognize Kosovo
-*   Kulish, Nicholas, and C. J. Chivers. "[Kosovo is Recognized but Rebuked by Others](http://www.nytimes.com/2008/02/19/world/europe/19kosovo.html?pagewanted=all)," _New York Times_, February 19, 2008.
-*   Bilefsky, Dan. "[In a Divided Kosovo City, a Resounding Vow to Remain Part of Serbia](http://www.nytimes.com/2008/02/19/world/europe/19serbs.html)," _New York Times_, February 19, 2008.
-*   ———. "[In a Showdown, Kosovo Declares its Independence](http://www.nytimes.com/2008/02/18/world/europe/18kosovo.html?pagewanted=all)," _New York Times_, February 18, 2008.
-*   Wood, Nicholas. "[Former Serb Official Surrenders to Hague](http://query.nytimes.com/gst/fullpage.html?res=9C04E5DA123CF936A25750C0A9639C8B63)," _New York Times_, March 15, 2005.
+*   Kulish, Nicholas, and C. J. Chivers. "{{% resource_link "b6f88743-d863-4f07-b837-55b35d98d16c" "Kosovo is Recognized but Rebuked by Others" %}}," _New York Times_, February 19, 2008.
+*   Bilefsky, Dan. "{{% resource_link "3b3415ab-d2db-4162-a2a6-25831418c3ed" "In a Divided Kosovo City, a Resounding Vow to Remain Part of Serbia" %}}," _New York Times_, February 19, 2008.
+*   ———. "{{% resource_link "4cb84b77-77ae-4d83-8ab0-d659f09c53dc" "In a Showdown, Kosovo Declares its Independence" %}}," _New York Times_, February 18, 2008.
+*   Wood, Nicholas. "{{% resource_link "f8f4eb14-c184-4938-8c4e-159011d2f101" "Former Serb Official Surrenders to Hague" %}}," _New York Times_, March 15, 2005.
 *   Ex-Bosnian Serb to face Genocide charges in the Hague
-*   Sciolino, Elaine. "[Bosnian Talks Snag on Fate of Two Serbs](http://www.nytimes.com/1995/11/17/world/bosnian-talks-snag-on-fate-of-two-serbs.html?pagewanted=all&src=pm)," _New York Times_, November 17, 1995.
-*   Simons, Marlise. "[Kosovo Chief Surrendering to Hague Tribunal](http://www.nytimes.com/2005/03/09/international/europe/09kosovo.html)," _New York Times_, March 9, 2005.
-*   Bilefsky, Dan. "[Ethnic Wins in Bosnia May Cause Deeper Splits](http://www.nytimes.com/2010/10/04/world/europe/04iht-bosnia.html)," _New York Times_, October 3, 2010.
+*   Sciolino, Elaine. "{{% resource_link "f7e98411-1c72-4c64-a37e-8da3a978cad9" "Bosnian Talks Snag on Fate of Two Serbs" %}}," _New York Times_, November 17, 1995.
+*   Simons, Marlise. "{{% resource_link "e038ceed-a145-46b1-841d-ce690d74899b" "Kosovo Chief Surrendering to Hague Tribunal" %}}," _New York Times_, March 9, 2005.
+*   Bilefsky, Dan. "{{% resource_link "474ffaea-6e59-4cde-a7c5-d783abf5bca3" "Ethnic Wins in Bosnia May Cause Deeper Splits" %}}," _New York Times_, October 3, 2010.
 
 Supplementary Reading: Russia
 -----------------------------
 
-*   Schwirtz, Michael. "[Video Draws Attention to Growing Violence Against Minorities in Russia](http://www.nytimes.com/2008/06/12/world/europe/12moscow.html)," _New York Times_, June 12, 2008.
-*   Levy, Clifford J. "[The Retreat of the Tongue of the Czars](http://www.nytimes.com/2009/09/13/weekinreview/13levy.html)," _New York Times_, September 12, 2009.
-*   Barry, Ellen. "[Protests Tinged with Ethnic Tensions Erupt in Moscow over Soccer Fan's Killing](http://www.nytimes.com/2010/12/13/world/europe/13russia.html)," _New York Times_, December 12, 2010.
+*   Schwirtz, Michael. "{{% resource_link "e3d68b5f-d678-4a9f-9204-e801aea5d4b6" "Video Draws Attention to Growing Violence Against Minorities in Russia" %}}," _New York Times_, June 12, 2008.
+*   Levy, Clifford J. "{{% resource_link "74e08285-58fb-4a8f-8407-e5199c9547cd" "The Retreat of the Tongue of the Czars" %}}," _New York Times_, September 12, 2009.
+*   Barry, Ellen. "{{% resource_link "ac05877b-559a-428d-b172-c92250afeae5" "Protests Tinged with Ethnic Tensions Erupt in Moscow over Soccer Fan's Killing" %}}," _New York Times_, December 12, 2010.
 
 Supplementary Reading: Latvia
 -----------------------------
 
-*   Schwirtz, Michael. "[Ruling Coalition Prevails in Latvia Vote](http://www.nytimes.com/2010/10/03/world/europe/03latvia.html)," _New York Times_, October 2, 2010.
+*   Schwirtz, Michael. "{{% resource_link "eaafea34-bee0-4769-8e2a-be1d92fd0172" "Ruling Coalition Prevails in Latvia Vote" %}}," _New York Times_, October 2, 2010.
 
 Supplementary Reading: Estonia
 ------------------------------
 
-*   Levy, Clifford J. "[Estoonia Raises its Pencils to Help Erase Russian](http://www.nytimes.com/2010/06/08/world/europe/08estonia.html)," _New York Times_, June 7, 2010.
+*   Levy, Clifford J. "{{% resource_link "8ccb4352-ab41-4ffd-861b-ba67c0a2a9c1" "Estoonia Raises its Pencils to Help Erase Russian" %}}," _New York Times_, June 7, 2010.
 
 Supplementary Reading: Roma (Gypsies)
 -------------------------------------
 
-*   Spritzer, Dinah A. "[Often Shunted Into Special Schools, Gypsies are Fighting Back in Czech Court](http://www.nytimes.com/2005/04/27/education/27gypsy.html?_r=1)," _New York Times_, April 27, 2005.
-*   Wood, Nicholas. "[Germany Sending Gypsy Refugees Back to Kosovo](http://www.nytimes.com/2005/05/19/international/europe/19kosovo.html?pagewanted=all)," _New York Times_, May 19, 2005.
-*   Erlanger, Steven. "[Document Cites French Bid to Oust Roma](http://www.nytimes.com/2010/09/13/world/europe/13france.html)," _New York Times_, September 12, 2010.
-*   Povoledo, Elisabetta. "[Italian Cities Plan to Shut Roma Camps](http://www.nytimes.com/2010/09/04/world/europe/04roma.html)," _New York Times_, September 3, 2010.
-*   Sayare, Scott. "[France: Replacement Directive Omits Word 'Roma'](http://www.nytimes.com/2010/09/14/world/europe/14briefs-FRANCE.html)," _New York Times_, September 13, 2010.
-*   Castle, Stephen. "[EU Casts Legal Doubt on France's Expulsions](http://www.nytimes.com/2010/09/02/world/europe/02roma.html)," _New York Times_, September 1, 2010.
-*   Bennhold, Katrin, and Stephen Castle. "[EU Calls France's Expulsions of Roma a "Disgrace"](http://www.nytimes.com/2010/09/15/world/europe/15roma.html)," _New York Times_, September 14, 2010.
-*   Dempsey, Judy, and Stephen Castle. "[France and Germany Spar Over Policies on Roma](http://www.nytimes.com/2010/09/18/world/europe/18germany.html)," _New York Times_, September 17, 2010.
-*   Kulish, Nicholas. "[As Economic Turmoil Mounts, so do Attacks on Hungary's Gypsies](http://www.nytimes.com/2009/04/27/world/europe/27hungary.html)," _New York Times_, April 26, 2009.
-*   Castle, Stephen. "[France Faces European Action after Expulsions](http://www.nytimes.com/2010/09/30/world/europe/30union.html)," _New York Times_, September 29, 2010.
-*   Daley, Suzanne, and Raphael Minder. "[In Spain, Gypsies Find Easier Path Toward Integration](http://www.nytimes.com/2010/12/06/world/europe/06gypsy.html?pagewanted=all)," _New York Times_, December 5, 2010.
+*   Spritzer, Dinah A. "{{% resource_link "60a26ba6-8232-49d1-867a-f0f26a57678d" "Often Shunted Into Special Schools, Gypsies are Fighting Back in Czech Court" %}}," _New York Times_, April 27, 2005.
+*   Wood, Nicholas. "{{% resource_link "3276afa3-0fe3-4d20-bebb-d0d09660d824" "Germany Sending Gypsy Refugees Back to Kosovo" %}}," _New York Times_, May 19, 2005.
+*   Erlanger, Steven. "{{% resource_link "774a7189-15cc-4eab-9b69-529d48f87022" "Document Cites French Bid to Oust Roma" %}}," _New York Times_, September 12, 2010.
+*   Povoledo, Elisabetta. "{{% resource_link "2ffcf951-bf13-43d4-ba1c-bda82bdf552d" "Italian Cities Plan to Shut Roma Camps" %}}," _New York Times_, September 3, 2010.
+*   Sayare, Scott. "{{% resource_link "83b738c7-f28a-4c4a-9f60-5575e07b5eba" "France: Replacement Directive Omits Word 'Roma'" %}}," _New York Times_, September 13, 2010.
+*   Castle, Stephen. "{{% resource_link "3affaf7a-44a0-4a4c-8855-c33fa615ca05" "EU Casts Legal Doubt on France's Expulsions" %}}," _New York Times_, September 1, 2010.
+*   Bennhold, Katrin, and Stephen Castle. "{{% resource_link "36972222-fd80-47e0-8888-08c9416e039d" "EU Calls France's Expulsions of Roma a \"Disgrace\"" %}}," _New York Times_, September 14, 2010.
+*   Dempsey, Judy, and Stephen Castle. "{{% resource_link "4c0da168-6f67-4544-910f-494316b7e61c" "France and Germany Spar Over Policies on Roma" %}}," _New York Times_, September 17, 2010.
+*   Kulish, Nicholas. "{{% resource_link "9d075421-3409-47b8-8488-879ce75f1fc8" "As Economic Turmoil Mounts, so do Attacks on Hungary's Gypsies" %}}," _New York Times_, April 26, 2009.
+*   Castle, Stephen. "{{% resource_link "d5e1e9b7-0e01-49bd-9ef5-3389b85bdfac" "France Faces European Action after Expulsions" %}}," _New York Times_, September 29, 2010.
+*   Daley, Suzanne, and Raphael Minder. "{{% resource_link "167c5344-a75c-405e-8b44-0a53db8bbdfb" "In Spain, Gypsies Find Easier Path Toward Integration" %}}," _New York Times_, December 5, 2010.
 
 Supplementary Reading: Italy
 ----------------------------
 
-*   Vitello, Paul. "[Scholars Reconsidering Italy's Treatment of Jews in the Nazi Era](http://www.nytimes.com/2010/11/05/nyregion/05italians.html)," _New York Times_, November 4, 2010.
+*   Vitello, Paul. "{{% resource_link "a1cec9bd-be37-4c60-a9f1-65dac59c181f" "Scholars Reconsidering Italy's Treatment of Jews in the Nazi Era" %}}," _New York Times_, November 4, 2010.
 
 Supplementary Reading: Belgium
 ------------------------------
 
-*   Kimmelman, Michael. "[With Flemish Nationalism on the Rise, Belgium Teeters on the Edge](http://www.nytimes.com/2008/08/04/arts/04abro.html?pagewanted=all)," _New York Times_, August 4, 2008.
+*   Kimmelman, Michael. "{{% resource_link "fc74851e-1ed5-488a-821b-6e67b84d8603" "With Flemish Nationalism on the Rise, Belgium Teeters on the Edge" %}}," _New York Times_, August 4, 2008.
 
 Supplementary Reading: Germany
 ------------------------------
 
-*   Bernstein, Richard. "[A Continent Watching Anxiously over the Melting Pot](http://www.nytimes.com/2004/12/15/international/15letter.html)," _New York Times_, December 15, 2004.
-*   Siebold, Sabine. "[Germany: Multicultural Germany has Failed, says Merkel](https://www.reuters.com/article/us-germany-merkel-immigration/merkel-says-german-multiculturalism-has-failed-idUSTRE69F1K320101016)," _Reuters_, October 16, 2010.
-*   Slackman, Michael. "[Hitler Exhibit Explores a Wider Circle of Guilt](http://www.nytimes.com/2010/10/16/world/europe/16hitler.html?pagewanted=all)," _New York Times_, October 15, 2010.
-*   Bernstein, Richard. "[Germans Still Finding New Moral Burdens of War](http://query.nytimes.com/gst/fullpage.html?res=9C07E1DA1530F93BA35756C0A9639C8B63&pagewanted=all)," _New York Times_, May 8, 2005.
+*   Bernstein, Richard. "{{% resource_link "2164c148-c641-4da6-9770-9eb2232c7b92" "A Continent Watching Anxiously over the Melting Pot" %}}," _New York Times_, December 15, 2004.
+*   Siebold, Sabine. "{{% resource_link "955c18e9-3f17-4205-a9a0-801b122a5e75" "Germany: Multicultural Germany has Failed, says Merkel" %}}," _Reuters_, October 16, 2010.
+*   Slackman, Michael. "{{% resource_link "682a25a1-d59c-4cab-a31e-bb8a86510e84" "Hitler Exhibit Explores a Wider Circle of Guilt" %}}," _New York Times_, October 15, 2010.
+*   Bernstein, Richard. "{{% resource_link "e86a77b8-64d6-4959-924c-8700b1bb413f" "Germans Still Finding New Moral Burdens of War" %}}," _New York Times_, May 8, 2005.
 
 Supplementary Reading: France
 -----------------------------
 
-*   Erlanger, Steven. "[France: Senate Passes Bill on Facial Veils](http://www.nytimes.com/2010/09/15/world/europe/15briefs-France.html)," _New York Times_, September 14, 2010.
-*   ———. "[Burqa Furor Scrambles the Political Debate in France](http://www.nytimes.com/2009/09/01/world/europe/01france.html)," _New York Times_, August 31, 2009.
-*   Smith, Craig S. "[What Makes Someone French?](http://www.nytimes.com/2005/11/11/international/europe/11france.html?pagewanted=all)" _New York Times_, November 11, 2005.
-*   "[France Faces a Colonial Legacy: What Makes Someone French?](http://hnn.us/roundup/entries/18234.html)" _New York Times_, November 11, 2005.
+*   Erlanger, Steven. "{{% resource_link "fbfeaec5-53ac-4ecb-8978-6e3b96491c5c" "France: Senate Passes Bill on Facial Veils" %}}," _New York Times_, September 14, 2010.
+*   ———. "{{% resource_link "b04b7705-a3c8-441b-ba7e-81c4bda2fc4b" "Burqa Furor Scrambles the Political Debate in France" %}}," _New York Times_, August 31, 2009.
+*   Smith, Craig S. "{{% resource_link "569be72b-0c07-44a9-bf50-731361483ce5" "What Makes Someone French?" %}}" _New York Times_, November 11, 2005.
+*   "{{% resource_link "fee5f06c-08d5-4b3b-b70c-f42ac577e04d" "France Faces a Colonial Legacy: What Makes Someone French?" %}}" _New York Times_, November 11, 2005.
 
 Supplementary Reading: Corsica
 ------------------------------
 
-*   Kimmelman, Michael. "[Cultures United to Honor Separatism](http://www.nytimes.com/2010/11/14/arts/14abroad.html?pagewanted=all)," _New York Times_, November 11, 2010.
+*   Kimmelman, Michael. "{{% resource_link "0acc77c7-21b2-4b70-8608-85f450276c3e" "Cultures United to Honor Separatism" %}}," _New York Times_, November 11, 2010.
 
 Supplementary Reading: Great Britain
 ------------------------------------
 
-*   Lyall, Sarah. "[Britain Upholds School Ban on a Muslim Gown](http://www.nytimes.com/2006/03/23/international/europe/23dress.html)," _New York Times_, March 23, 2006.
-*   Hochschild, Adam. "[How the British Inspired Dr. King's Dream](http://www.nytimes.com/2005/01/17/opinion/17hochschild.html)," _New York Times_, January 17, 2005.
+*   Lyall, Sarah. "{{% resource_link "ce085150-3b7a-4c77-a37b-5daf05585a03" "Britain Upholds School Ban on a Muslim Gown" %}}," _New York Times_, March 23, 2006.
+*   Hochschild, Adam. "{{% resource_link "4951d317-d790-4c28-bafd-771d2b8de7b0" "How the British Inspired Dr. King's Dream" %}}," _New York Times_, January 17, 2005.
 
 Supplementary Reading: Spain, Including Regions
 -----------------------------------------------
 
-*   Tagliabue, John. "[Trumpeting the Catalan Language, by Law, in Small Type on the Big Screen](http://www.nytimes.com/2010/03/11/world/europe/11barcelona.html?_r=1&hp&ex=&ei=&partner=)," _New York Times_, March 10, 2010.
+*   Tagliabue, John. "{{% resource_link "d0256545-df82-44b2-84ee-be8cf10f90f0" "Trumpeting the Catalan Language, by Law, in Small Type on the Big Screen" %}}," _New York Times_, March 10, 2010.
 
 Supplementary Reading: Sudan
 ----------------------------
 
-*   Hoge, Warren. "[Rights Group Says Sudan Aids Abuses](http://www.nytimes.com/2004/07/20/world/rights-group-says-sudan-aids-abuses.html)," _New York Times_, July 20, 2004.
-*   Brinkley, Joel. "[Violence and Refugee Numbers Grow in Sudan](http://query.nytimes.com/gst/fullpage.html?res=9C0DEFDA123EF932A25752C1A9639C8B63)," _New York Times_, November 11, 2005.
-*   Lacey, Marc. "[Sudan and Southern Rebels Sign Pact to End Civil War](http://www.nytimes.com/2005/01/01/international/africa/01sudan.html)," _New York Times_, January 1, 2005.
-*   ———. "[Sudan and Southern Rebels Sign Deal Ending Civil War](http://www.nytimes.com/2005/01/10/international/africa/10sudan.html)," _New York Times_, January 10, 2005.
-*   ——— "[Death of Sudan Rebel Leader Imperils Fragile Hope for Peace](http://www.nytimes.com/2005/08/02/international/africa/02sudan.html?pagewanted=all)," _New York Times_, August 2, 2005.
-*   Kristof, Nicholas D. "[The Secret Genocide Archive](http://www.nytimes.com/2005/02/23/opinion/23kristof.html)," _New York Times_, February 23, 2005.
-*   Polgreen, Lydia. "[Darfur's Babies of Rape are on Trial From Birth](http://www.nytimes.com/2005/02/11/international/africa/11sudan.html)," _New York Times_, February 11, 2005.
-*   Gettleman, Jeffrey. "[In Expectant Mood, Sudanese Register to Vote on Secession for the South](http://www.nytimes.com/2010/11/16/world/africa/16sudan.html)," _New York Times_, November 15, 2010.
+*   Hoge, Warren. "{{% resource_link "e7efad71-0133-45e8-9ed0-31e3ebe052d2" "Rights Group Says Sudan Aids Abuses" %}}," _New York Times_, July 20, 2004.
+*   Brinkley, Joel. "{{% resource_link "7dde1a99-5b62-462d-bcf5-01e6655bc755" "Violence and Refugee Numbers Grow in Sudan" %}}," _New York Times_, November 11, 2005.
+*   Lacey, Marc. "{{% resource_link "c317983e-2f43-4c0c-addd-46af3e929fdd" "Sudan and Southern Rebels Sign Pact to End Civil War" %}}," _New York Times_, January 1, 2005.
+*   ———. "{{% resource_link "de9320b2-219f-47f6-9a67-297e956b6757" "Sudan and Southern Rebels Sign Deal Ending Civil War" %}}," _New York Times_, January 10, 2005.
+*   ——— "{{% resource_link "98c9fa92-85ea-41ef-be91-6dde711fc0e4" "Death of Sudan Rebel Leader Imperils Fragile Hope for Peace" %}}," _New York Times_, August 2, 2005.
+*   Kristof, Nicholas D. "{{% resource_link "c4964e4c-2f1b-49e8-b199-ed2ee22f2b4b" "The Secret Genocide Archive" %}}," _New York Times_, February 23, 2005.
+*   Polgreen, Lydia. "{{% resource_link "816c6375-20ed-46a0-900e-7a27ee9b302f" "Darfur's Babies of Rape are on Trial From Birth" %}}," _New York Times_, February 11, 2005.
+*   Gettleman, Jeffrey. "{{% resource_link "bc653ea8-f816-4f49-bd0f-797c91fccb62" "In Expectant Mood, Sudanese Register to Vote on Secession for the South" %}}," _New York Times_, November 15, 2010.
 
 Supplementary Reading: East Africa
 ----------------------------------
 
-*   Gettleman, Jeffrey. "[Kenya's Kikuyus, Long Dominant, are Now Routed](http://www.nytimes.com/2008/01/07/world/africa/07kenya.html?pagewanted=all)," _New York Times_, January 7, 2008.
-*   ———. "[U.S. Envoy Calls Some Kenya Violence Ethnic Cleansing](http://www.nytimes.com/2008/01/30/world/africa/30iht-kenya.4.9619069.html?pagewanted=all)," _New York Times_, January 30, 2008.
+*   Gettleman, Jeffrey. "{{% resource_link "5f8714bb-0805-46a3-b1c1-ec20a1d215f0" "Kenya's Kikuyus, Long Dominant, are Now Routed" %}}," _New York Times_, January 7, 2008.
+*   ———. "{{% resource_link "81734a24-b1ab-4748-83d0-f8c2d59b5d8a" "U.S. Envoy Calls Some Kenya Violence Ethnic Cleansing" %}}," _New York Times_, January 30, 2008.
 
 Supplementary Reading: Rwanda
 -----------------------------
 
-*   Kron, Josh. "[Extremist Hutu Officials Blamed in '94 Rwanda Assassination](http://www.nytimes.com/2010/01/12/world/africa/12rwanda.html)," _New York Times_, January 11, 2010.
+*   Kron, Josh. "{{% resource_link "70d4e7d2-76ca-40d7-b856-d85d5357b3ff" "Extremist Hutu Officials Blamed in '94 Rwanda Assassination" %}}," _New York Times_, January 11, 2010.
 
 Supplimentary Reading: Southern Africa
 --------------------------------------
 
-*   LaFraniere, Sharon. "[After Apartheid: Heated Words About Rape and Race](http://www.nytimes.com/2004/11/24/international/africa/24letter.html)," _New York Times_, November 24, 2004.
-*   Bearak, Barry. "[For Some Bushmen, A Homeland Worth the Fight](http://www.nytimes.com/2010/11/05/world/africa/05bushmen.html?pagewanted=all)," _New York Times_, November 4, 2010.
+*   LaFraniere, Sharon. "{{% resource_link "9def79bd-fd01-42e7-988a-c82bbbd98441" "After Apartheid: Heated Words About Rape and Race" %}}," _New York Times_, November 24, 2004.
+*   Bearak, Barry. "{{% resource_link "db4f9d16-0a81-4877-8981-79e88f4bbe52" "For Some Bushmen, A Homeland Worth the Fight" %}}," _New York Times_, November 4, 2010.
 
 Supplementary Reading: Mexico
 -----------------------------
 
-*   Thompson, Ginger. "[Uneasily, A Latin Land Looks At Its Own Complexion](http://www.nytimes.com/2005/05/19/international/americas/19mexico.html)," _New York Times_, May 19, 2005.
-*   Stephen, Lynn. "[The Construction of Indigenous Suspects: Militarization and the Gendered and Ethnic Dynamics of Human Rights and Abuses in Southern Mexico](http://www.jstor.org/pss/647233)." _American Ethnologist_ 26, no. 4 (1999): 822–42.
+*   Thompson, Ginger. "{{% resource_link "e865c1dd-862d-4e4e-b666-620e45927756" "Uneasily, A Latin Land Looks At Its Own Complexion" %}}," _New York Times_, May 19, 2005.
+*   Stephen, Lynn. "{{% resource_link "7e1bcfe7-a5f9-424b-9f19-b908b7fff7e6" "The Construction of Indigenous Suspects: Militarization and the Gendered and Ethnic Dynamics of Human Rights and Abuses in Southern Mexico" %}}." _American Ethnologist_ 26, no. 4 (1999): 822–42.
 
 Supplementary Reading: Colombia
 -------------------------------
 
-*   Romero, Simon. "[Talk of Independence in a Place \[San Andres Island\] Claimed by 2 Nations](http://www.nytimes.com/2008/02/01/world/americas/01colombia.html)," _New York Times_, February 1, 2008.
-*   ———. "[Dueling Beauty Pageants Put Income Gap on View](http://www.nytimes.com/2010/12/01/world/americas/01colombia.html)," _New York Times_, November 30, 2010.
+*   Romero, Simon. "{{% resource_link "32d2803a-b034-4f1b-b9e5-3acf49759108" "Talk of Independence in a Place [San Andres Island] Claimed by 2 Nations" %}}," _New York Times_, February 1, 2008.
+*   ———. "{{% resource_link "78be44dc-0516-49f0-9a46-d86d64fb289e" "Dueling Beauty Pageants Put Income Gap on View" %}}," _New York Times_, November 30, 2010.
 
 Supplementary Reading: Quebec Separatism
 ----------------------------------------
 
-*   Krauss, Clifford. "[Quebec Seeking to End Its Old Cultural Divide](http://www.nytimes.com/2003/04/13/world/quebec-seeking-to-end-its-old-cultural-divide.html?pagewanted=all&src=pm)," _New York Times_, April 13, 2003.
+*   Krauss, Clifford. "{{% resource_link "3646f596-8ff8-40d3-8025-a55ecf9803cf" "Quebec Seeking to End Its Old Cultural Divide" %}}," _New York Times_, April 13, 2003.
 
 Supplementary Reading: Native Americans
 ---------------------------------------
 
-*   "[For This Coin, It's Three Heads and One Tail](http://query.nytimes.com/gst/fullpage.html?res=9C07E5DE163CF93AA35750C0A9639C8B63)," _New York Times_, March 6, 2005.
-*   Austen, Ian. "[Canada Offers an Apology for Native Students' Abuse](http://www.nytimes.com/2008/06/12/world/americas/12canada.html)," _New York Times_, June 12, 2008.
+*   "{{% resource_link "c42118ca-9b19-494e-9822-63dc95ffe408" "For This Coin, It's Three Heads and One Tail" %}}," _New York Times_, March 6, 2005.
+*   Austen, Ian. "{{% resource_link "5c713392-0857-4474-a4f6-6815239e1957" "Canada Offers an Apology for Native Students' Abuse" %}}," _New York Times_, June 12, 2008.
 *   8000 Native Canadians to be Compensated for Abuse
 *   In Twist, North Dakota Tribe Fights to Keep Fighting Sioux Nickname
 *   "A Witness Recalls a Grim End to a Quest for Spiritual Rebirth," _New York Times_, October 22, 2009.
-*   The Associated Press. "[In a First, Navajos to Vote on their Power Structure](http://www.nytimes.com/2009/07/05/us/05navajo.html)," _New York Times_, July 4, 2009.
-*   "[The Verdict: It's Broken](http://www.nytimes.com/2008/02/01/opinion/01fri2.html)," _New York Times_, February 1, 2008.
-*   Mckinley, Jesse. "[For Nevada Casinos, Threats in California](http://www.nytimes.com/2010/10/03/us/03reno.html)," _New York Times_, October 2, 2010.
+*   The Associated Press. "{{% resource_link "2548ef2c-3a89-449e-881d-9cb890cb3b0c" "In a First, Navajos to Vote on their Power Structure" %}}," _New York Times_, July 4, 2009.
+*   "{{% resource_link "f1467fb2-4037-4735-9cb3-0d07ff953158" "The Verdict: It's Broken" %}}," _New York Times_, February 1, 2008.
+*   Mckinley, Jesse. "{{% resource_link "cbeaf29d-0739-43a9-8358-2e9e27141b56" "For Nevada Casinos, Threats in California" %}}," _New York Times_, October 2, 2010.
 *   "Wiracocha's Dreaming: The Mirror Within Spirit and Matter. Pamphlet for The Heart of the Healer Foundation's Fifth International Gathering." _The Heart of the Healer Foundation_, 2005.
-*   Files, John. "[For 4th Time, Judge Seeks to Shield Indian Data](http://www.nytimes.com/2005/10/25/politics/25indian.html)," _New York Times_, October 25, 2005.
-*   Rothstein, Edward. "[Who Should Tell History: The Tribes or the Museums?](http://www.nytimes.com/2004/12/21/arts/design/21muse.html)" _New York Times_, December 21, 2004.
-*   Kinzer, Stephen. "[Museums and Tribes: A Tricky Truce](http://www.nytimes.com/2000/12/24/arts/museums-and-tribes-a-tricky-truce.html?pagewanted=all&src=pm)," _New York Times_, December 24, 2000.
-*   Hitt, Jack. "[The Newest Indians](http://www.nytimes.com/2005/08/21/magazine/21NATIVE.html?pagewanted=all)," _New York Times_, August 21, 2005.
-*   "[New Mexico: Tribal Sovereignty Upheld](http://query.nytimes.com/gst/fullpage.html?res=9B07EFDE1E3EF937A1575BC0A9639C8B63)," _New York Times_, August 24, 2005.
-*   Powell, Robert Andrew. "[Florida State can Keep its Seminole Mascot](http://www.nytimes.com/2005/08/24/sports/24mascot.html?pagewanted=all)," _New York Times_, August 24, 2005.
-*   Egan, Timothy. "[A Skeleton Moves from the Courts to the Laboratory](http://www.nytimes.com/2005/07/19/science/19skul.html?pagewanted=all)," _New York Times_, July 19, 2005.
+*   Files, John. "{{% resource_link "ef3689f1-53dd-4596-8078-a9930ea4ab19" "For 4th Time, Judge Seeks to Shield Indian Data" %}}," _New York Times_, October 25, 2005.
+*   Rothstein, Edward. "{{% resource_link "a0557111-50f7-4394-a181-cca0b0a0cfec" "Who Should Tell History: The Tribes or the Museums?" %}}" _New York Times_, December 21, 2004.
+*   Kinzer, Stephen. "{{% resource_link "180ec84d-5246-426d-be97-40e6f28cd2a6" "Museums and Tribes: A Tricky Truce" %}}," _New York Times_, December 24, 2000.
+*   Hitt, Jack. "{{% resource_link "244a8e66-b08c-4601-9963-fc790b7592a2" "The Newest Indians" %}}," _New York Times_, August 21, 2005.
+*   "{{% resource_link "58eba41c-bc34-4247-90ab-6fc2ba65fa6b" "New Mexico: Tribal Sovereignty Upheld" %}}," _New York Times_, August 24, 2005.
+*   Powell, Robert Andrew. "{{% resource_link "5d2e29d0-8ae3-468c-a4b7-1ea72f2f2456" "Florida State can Keep its Seminole Mascot" %}}," _New York Times_, August 24, 2005.
+*   Egan, Timothy. "{{% resource_link "28cbe717-9069-40fd-a159-29521a906171" "A Skeleton Moves from the Courts to the Laboratory" %}}," _New York Times_, July 19, 2005.
 
 Supplementary Reading: Gender/Ethno-racial Identity/Nationalism
 ---------------------------------------------------------------
 
-*   Nelson, Diane. "[Perpetual Creation and Decomposition: Bodies, Gender, and Desire in Assumptions Mestizaje](http://onlinelibrary.wiley.com/doi/10.1525/jlca.1998.4.1.74/abstract)." _Journal of Latin American Anthropology_ 4, no. 1 (1998): 74–111.
-*   Cadena, Marisol de la. "[Ambiguity and Contradiction in the Analysis of Race and the State](http://onlinelibrary.wiley.com/doi/10.1525/jlca.2001.6.2.252/abstract)." _Journal of Latin American Anthropology_ 6, no. 2 (2001): pp. 252–66.
+*   Nelson, Diane. "{{% resource_link "f365815a-8959-47f2-878c-71fccefdcf0d" "Perpetual Creation and Decomposition: Bodies, Gender, and Desire in Assumptions Mestizaje" %}}." _Journal of Latin American Anthropology_ 4, no. 1 (1998): 74–111.
+*   Cadena, Marisol de la. "{{% resource_link "aeb21eae-2838-4185-a32a-99c19bb95924" "Ambiguity and Contradiction in the Analysis of Race and the State" %}}." _Journal of Latin American Anthropology_ 6, no. 2 (2001): pp. 252–66.
 
 Supplementary Reading: The Question of Biologically Defined Race
 ----------------------------------------------------------------
 
-*   Leroi, Armand Marie. "[A Family Tree in Every Gene](http://www.nytimes.com/2005/03/14/opinion/14leroi.html)," _New York Times_, March 14, 2005.
-*   Daly, Emma. "DNA Test Gives Students Ethnic Shocks," _New York Times_, April 13, 2005. ([PDF](https://www.nytimes.com/2005/04/13/nyregion/dna-tells-students-they-arent-who-they-thought.html))
+*   Leroi, Armand Marie. "{{% resource_link "a2a3fb7f-adcb-4787-afd2-0e851df2cd42" "A Family Tree in Every Gene" %}}," _New York Times_, March 14, 2005.
+*   Daly, Emma. "DNA Test Gives Students Ethnic Shocks," _New York Times_, April 13, 2005. ({{% resource_link "340c614e-93f9-4c76-8f38-3a630eb56eba" "PDF" %}})
 
 Supplementary Reading: Ethno-racial Profiling
 ---------------------------------------------
 
-*   Murphy, Dean E. "[Case Stirs Fight on Jews, Juries, and Execution](http://www.nytimes.com/2005/03/16/national/16juries.html)," _New York Times_, March 16, 2005.
+*   Murphy, Dean E. "{{% resource_link "1c3c98a1-907a-444b-9652-c134973929fb" "Case Stirs Fight on Jews, Juries, and Execution" %}}," _New York Times_, March 16, 2005.
 
 Supplementary Reading: White Supremacy Groups U.S.
 --------------------------------------------------
 
-*   Johnson, Kirk. "[New Tactics, Tools, and Goals are Emerging for White Power Organizations](http://query.nytimes.com/gst/fullpage.html?res=9400E5DF163EF935A35757C0A9639C8B63&pagewanted=all)," _New York Times_, April 6, 2005.
+*   Johnson, Kirk. "{{% resource_link "f20d6163-51de-409d-a586-3a6a8e277d49" "New Tactics, Tools, and Goals are Emerging for White Power Organizations" %}}," _New York Times_, April 6, 2005.
 
 Supplementary Reading: Ethnic Conflict and Violence
 ---------------------------------------------------
 
-*   Eakin, Emily. "[On the Dark Side of Democracy: Often, Free Markets and Elections Lead to Ethnic Violence](http://www.nytimes.com/2004/01/31/books/on-the-dark-side-of-democracy.html?pagewanted=all&src=pm)," _New York Times_, January 31, 2004.
+*   Eakin, Emily. "{{% resource_link "b062288b-4bab-4fbe-b1f7-76c771f62247" "On the Dark Side of Democracy: Often, Free Markets and Elections Lead to Ethnic Violence" %}}," _New York Times_, January 31, 2004.
 
 Supplementary Reading: Cultural Recovery Movements
 --------------------------------------------------
 
-*   Merry, Sally. "[Law, Culture, and Cultural Appropriation](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1202&context=yjlh)." _Yale Journal of Law and the Humanities_ 10, no. 2 (1998): 575–603.
+*   Merry, Sally. "{{% resource_link "333b12ad-3c34-4600-871f-16400da612bc" "Law, Culture, and Cultural Appropriation" %}}." _Yale Journal of Law and the Humanities_ 10, no. 2 (1998): 575–603.
 
 Supplementary Reading: Ethnic Tourism
 -------------------------------------
 
-*   Bruner, Edward. "[The Maasai and the Lion King](http://www.jstor.org/pss/3094939)." _American Ethnologist_ 28, no. 4 (2001): pp. 881–908.
-*   Isaacson, Andy. "[Amazon Awakening](http://travel.nytimes.com/2010/10/17/travel/17Ecuador.html?pagewanted=all)," _New York Times_, October 13, 2010.
+*   Bruner, Edward. "{{% resource_link "67ffb598-f502-4788-887b-6a480b0f6a2f" "The Maasai and the Lion King" %}}." _American Ethnologist_ 28, no. 4 (2001): pp. 881–908.
+*   Isaacson, Andy. "{{% resource_link "a79ad5ef-c0a5-4fa3-8f11-7b10bb8d6b21" "Amazon Awakening" %}}," _New York Times_, October 13, 2010.
 
 Supplementary Reading: Neoliberalism
 ------------------------------------
 
-*   Krugman, Paul. "[The Ugly American Bank](http://www.nytimes.com/2005/03/18/opinion/18krugman.html)," _New York Times_, March 18, 2005.
+*   Krugman, Paul. "{{% resource_link "95a92b2e-d1dd-42d4-9c38-ceefd29e8586" "The Ugly American Bank" %}}," _New York Times_, March 18, 2005.
 
 Supplementary Reading: Language and Speech
 ------------------------------------------
 
-*   Tagliabue, John. "[In Multilingual Switzerland, One Tongue Struggles to Survive](http://query.nytimes.com/gst/fullpage.html?res=9B05E4DF1638F93AA1575AC0A9669D8B63)," _New York Times_, September 29, 2010.
-*   Levy, Clifford J. "[The Retreat of the Tongue of the Czars](http://www.nytimes.com/2009/09/13/weekinreview/13levy.html)," _New York Times_, September 12, 2009.
-*   ———. "[Estonia Raises its Pencils to Erase Russian](http://www.nytimes.com/2010/06/08/world/europe/08estonia.html)," _New York Times_, June 7, 2010.
-*   Malkin, Elisabeth. "[Rebelling Against Spain, This Time with Words](http://www.nytimes.com/2010/11/26/world/europe/26spanish.html)," _New York Times_, November 25, 2010.
+*   Tagliabue, John. "{{% resource_link "c2c431ab-7759-4648-889b-33dd5114ab1a" "In Multilingual Switzerland, One Tongue Struggles to Survive" %}}," _New York Times_, September 29, 2010.
+*   Levy, Clifford J. "{{% resource_link "74e08285-58fb-4a8f-8407-e5199c9547cd" "The Retreat of the Tongue of the Czars" %}}," _New York Times_, September 12, 2009.
+*   ———. "{{% resource_link "8ccb4352-ab41-4ffd-861b-ba67c0a2a9c1" "Estonia Raises its Pencils to Erase Russian" %}}," _New York Times_, June 7, 2010.
+*   Malkin, Elisabeth. "{{% resource_link "c68a5aa8-5c77-4b12-9ebf-8492029f0e2d" "Rebelling Against Spain, This Time with Words" %}}," _New York Times_, November 25, 2010.
 
 Supplementary Reading: Religion and Identity
 --------------------------------------------
 
-*   Merkin, Daphne. "[In Search of the Skeptical, Hopeful, Mystical Me](http://www.nytimes.com/2008/04/13/magazine/13kabbalah-t.html?pagewanted=all)," _New York Times Magazine_, April 13, 2008.
-*   Rohde, David. "[A World of Ways to Say "Islamic Law"](http://query.nytimes.com/gst/fullpage.html?res=940CEED8143CF930A25750C0A9639C8B63&pagewanted=all)," _New York Times_, March 13, 2005.
-*   Romero, Simon. "[Hispanics Uncovering Roots as Inquisition's "Hidden" Jews](http://www.nytimes.com/2005/10/29/national/29religion.html)," _New York Times_, October 29, 2005.
-*   James, Barry. "[Conversion of Albright's Jewish Family Followed a Well-trod Path](http://www.nytimes.com/1997/02/08/news/08iht-catholic.t.html)," _New York Times_, February 8, 1997.
+*   Merkin, Daphne. "{{% resource_link "d35c09ed-b976-4e2f-95fc-76c9796a365c" "In Search of the Skeptical, Hopeful, Mystical Me" %}}," _New York Times Magazine_, April 13, 2008.
+*   Rohde, David. "{{% resource_link "40e87fe0-ef7d-4998-b1c6-97505f27b298" "A World of Ways to Say \"Islamic Law\"" %}}," _New York Times_, March 13, 2005.
+*   Romero, Simon. "{{% resource_link "6fd76e4b-daa9-44ee-b210-16b12ff1d6e8" "Hispanics Uncovering Roots as Inquisition's \"Hidden\" Jews" %}}," _New York Times_, October 29, 2005.
+*   James, Barry. "{{% resource_link "45ddc52f-70f7-4fee-a5c0-883b2417d403" "Conversion of Albright's Jewish Family Followed a Well-trod Path" %}}," _New York Times_, February 8, 1997.

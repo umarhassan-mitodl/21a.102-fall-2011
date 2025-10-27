@@ -4,8 +4,6 @@ description: This resource contains information about lecture notes.
 file: /courses/21a-226-ethnic-and-national-identity-fall-2011/2e2525993d63af6c4ebd58d705961e15_MIT21A_226F11_2Gld_Nag_Erk.pdf
 file_size: 121180
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

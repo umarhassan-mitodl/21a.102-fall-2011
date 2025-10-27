@@ -4,8 +4,6 @@ description: This resource contains information related to lecture notes.
 file: /courses/21a-226-ethnic-and-national-identity-fall-2011/99ed668f1f5b8f9bf401b303d024cd4e_MIT21A_226F11_24_Abu_El.pdf
 file_size: 558264
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
